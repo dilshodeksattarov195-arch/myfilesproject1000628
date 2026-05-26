@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderppdate",
+        "uuid": 2795228,
+        "checksum": "isff5"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
